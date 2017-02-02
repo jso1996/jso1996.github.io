@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Jagmeet Singh Oberoi
+bio: A Man who travels the world 
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -35,7 +35,7 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: jagmeet.oberoi
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -49,7 +49,7 @@ github: mygithub
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: js948@snu.edu.in
 
 authors:
     johndoe:
